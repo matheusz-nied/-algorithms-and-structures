@@ -1,12 +1,12 @@
-**Projeto: Estruturas de Dados e Algoritmos em Python**
+# **Projeto: Estruturas de Dados e Algoritmos em Python**
 
-**Descrição:**
+## **Descrição:**
 Este projeto consiste em implementações de três algoritmos fundamentais de estruturas de dados e ordenação em Python. Inclui uma **Árvore Binária Autoequilibrada** para operações eficientes de busca e inserção, algoritmos de ordenação **QuickSort e MergeSort** para classificação eficiente de dados, e uma implementação de **Árvore Trie** para operações rápidas de busca de prefixo em conjuntos de palavras.
 
-**Tecnologias Utilizadas:**
+## **Tecnologias Utilizadas:**
 - Python
 
-**Instruções de Instalação:**
+## **Instruções de Instalação:**
 1. Clone o repositório.
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
